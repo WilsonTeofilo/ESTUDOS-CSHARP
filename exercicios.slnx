@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="76eb012b-c465-4631-a582-67871b9ad78a" />
+  <Project Path="ex004/ex004.csproj" Id="18f26de3-3208-406f-9947-bece778212fe" />
+  <Project Path="ex005/ex005.csproj" Id="2aa256b8-44fb-413d-9dee-b0106531b8db" />
+  <Project Path="ex007/ex007.csproj" Id="ec12ceda-d2ed-469a-b990-a056afb4628d" />
+  <Project Path="ex008/ex008.csproj" Id="fa48dce6-0232-432d-80b9-887df229a5c3" />
+  <Project Path="ex03/ex03.csproj" Id="498b8e0e-448e-4c9d-beb5-63ff6fa7ce87" />
+  <Project Path="ex06/ex06.csproj" Id="54a6dee8-8cc4-42ef-a836-a53b3a1472a7" />
+  <Project Path="ex07/ex07.csproj" Id="59d24ab6-9037-45ee-8258-0c0e880b2142" />
+  <Project Path="exercicios/exercicios.csproj" Id="098c01b5-6a04-4d84-be71-ec1561187fba" />
+  <Project Path="Jamelao/Jamelao.csproj" Id="026e3830-6ac3-44d1-90e9-dab2759953c2" />
+</Solution>
